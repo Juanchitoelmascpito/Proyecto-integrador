@@ -1,4 +1,4 @@
-// Variables globales
+// Variables globales carrito
 let btnProducts = document.querySelectorAll(".btn-product");
 let contadorCarrito = document.querySelector(".contar-pro");
 let listadoCarrito = document.querySelector(".list-cart tbody");
