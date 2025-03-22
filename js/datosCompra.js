@@ -1,3 +1,5 @@
+// datosCompra
+
 document.addEventListener("DOMContentLoaded", function () {
     mostrarResumenOrden();
     cargarDatosEntrega();
