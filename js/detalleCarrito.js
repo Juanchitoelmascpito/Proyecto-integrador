@@ -1,3 +1,5 @@
+//hola mundo los quiero 
+
 let tablaCarrito = document.querySelector(".cart-table tbody");
 let resumenSubTotal = document.querySelector(".res-sub-total");
 let resumenDescuento = document.querySelector(".promo");
